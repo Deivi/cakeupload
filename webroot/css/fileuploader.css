@@ -82,6 +82,16 @@
 	font-size: 11px;
 }
 
+.qq-completed {
+	display: none;
+}
+
+.qq-upload-success .qq-completed {
+	display: inline;
+	color: green;
+	font-weight: 900;
+}
+
 .qq-upload-failed-text {
 	display: none;
 }
